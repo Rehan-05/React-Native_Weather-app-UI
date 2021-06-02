@@ -1,0 +1,42 @@
+export default Locations = [
+  {
+    id: 1,
+    city: 'Bahawalpur',
+    dateTime: '1:00 AM — Wednesday, 2 Jan 2021',
+    temparature: '30\u2103',
+    weatherType: 'Night',
+    wind: 19,
+    rain: '50%',
+    humidity: 70,
+  },
+  {
+    id: 2,
+    city: 'London',
+    dateTime: '7:05 PM — Tuesday, 1 Jan 2021',
+    temparature: '13\u2103',
+    weatherType: 'Rainy',
+    wind: 8,
+    rain: 90,
+    humidity: 82,
+  },
+  {
+    id: 3,
+    city: 'New York',
+    dateTime: '12:20 AM — Tuesday, 1 Jan 2021',
+    temparature: '17\u2103',
+    weatherType: 'Sunny',
+    wind: 5,
+    rain: 15,
+    humidity: 61,
+  },
+  {
+    id: 4,
+    city: 'Sydney',
+    dateTime: '7:20 AM — Wednesday, 1 Jan 2021',
+    temparature: '10\u2103',
+    weatherType: 'Cloudy',
+    wind: 20,
+    rain: 70,
+    humidity: 91,
+  }
+];
